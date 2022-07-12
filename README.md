@@ -1,7 +1,9 @@
 ### Olá , eu sou Evandro Rodrigues Coelho 👋
 #### Contato:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evandro_rc0/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-coelho-b425601a4/)
+[![Instagram](https://img.shields.io/badge/evandro__rc0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evandro_rc0/)
+[![linkedin](https://img.shields.io/badge/Evandro_Rodrigues_Coelho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-coelho-b425601a4/)
+[![Gmail Badge](https://img.shields.io/badge/-evandrorodcoelho@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:evandrorodcoelho@gmail.com)
+
 <hr>
 
 ![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroRodriguesCoelho2&show_icons=true&theme=radical)
