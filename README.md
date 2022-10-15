@@ -6,7 +6,7 @@
 
 <hr>
 
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroRodriguesCoelho2&show_icons=true&theme=radical)
+![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroRodCoelho&show_icons=true&theme=radical)
 
 ### IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -21,4 +21,4 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  <img src="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroRodriguesCoelho2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroRodCoelho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
