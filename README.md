@@ -4,16 +4,17 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas no <a href="https://www.fatecjd.edu.br/portal/">FATEC</a>.
-- 🌱 &nbsp; Aprendendo mais sobre NEXT.JS Typescript Express.js.
+- 🌱 &nbsp; Aprendendo mais sobre React Query Express.js.
 
 <hr>
-<a  href="https://github.com/EvandroRodCoelho" >
 
- [![card](https://github-readme-stats.vercel.app/api?username=EvandroRodCoelho&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/EvandroRodCoelho">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EvandroROdCoelho&hide=blade,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/EvandroRodCoelho" >
-  [![Evandro](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroRodCoelho&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<a/>
+
+<a href="https://github.com/EvandroRodCoelho">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EvandroRodCoelho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
