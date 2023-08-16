@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas no <a href="https://www.fatecjd.edu.br/portal/">FATEC</a>.
-- 🌱 &nbsp; Aprendendo mais sobre POO (Java) e Performece em react.
 
 <hr>
 
