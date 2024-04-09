@@ -22,43 +22,34 @@
 <h2> :rocket: &nbsp;My Skills </h3>
 
 ### Development
-
+<hr>
 <div>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-1d1f21?style=for-the-badge&logo=angular&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-1d1f21?style=for-the-badge&logo=typescript&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-1d1f21?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/node.js-1d1f21?style=for-the-badge&logo=node.js&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-1d1f21?style=for-the-badge&logo=php&logoColor=white)
-    
 </div>
-
+<div>  
+  
+  ![Java](https://img.shields.io/badge/Java-1d1f21?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-1d1f21?style=for-the-badge&logo=node.js&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-1d1f21?style=for-the-badge&logo=c-sharp&logoColor=white) 
+</div>
 <div>
   
   ![CSS](https://img.shields.io/badge/CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-1d1f21?style=for-the-badge&logo=sass&logoColor=white)
-  ![Styled-components](https://img.shields.io/badge/styled--components-1d1f21?style=for-the-badge&logo=styled-components&logoColor=white)
   ![TailWind](https://img.shields.io/badge/Tailwind_CSS-1d1f21?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </div>
 
 
-## Database
+### Database
+<hr>
 
   ![MySQL](https://img.shields.io/badge/MySQL-1d1f21?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-1d1f21?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-### DevOps
-
-  ![Git](https://img.shields.io/badge/git-1d1f21.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-1d1f21.svg?style=for-the-badge&logo=github&logoColor=white)
-  
-### Development Tools
-
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1d1f21.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-1d1f21.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-1d1f21.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![SQLSErver](https://img.shields.io/badge/Microsoft_SQL_Server-1d1f21?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
 <h3> :earth_americas: &nbsp;Where to Find Me: </h3> 
