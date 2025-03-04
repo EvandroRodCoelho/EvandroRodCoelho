@@ -7,7 +7,7 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Systems Analysis and Development at <a href="https://www.fatecjd.edu.br/portal/">FATEC</a>.
+- 🎓 &nbsp; Bachelor in Systems Analysis and Development at <a href="https://www.fatecjd.edu.br/portal/">FATEC</a>.
 
 <hr>
 
